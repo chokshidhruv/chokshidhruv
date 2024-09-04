@@ -3,7 +3,7 @@ My name is Dhruv Chokshi. I am a second year Software Engineering student studyi
 <br>
 - ⚡ As the Co-Chair for the Leadership Development Conference Committee at McMaster, I am organizing the Largest Student-Run Engineering Conference at McMaster - stay tuned!
 - 💻 I’m currently leading the development of the Leadership Development Conference (LDC) website - Check out the [repositery!](https://github.com/Leadership-Dev-Conference-Committee)
-- 🌱 I’m also a Website Developer for the Software Engineering Society!
+- 🌱 I’m a Website Developer for the Software Engineering Society!
 - 💼 I've worked as a Residence Ambassador for McMaster University.
 <br>
 
@@ -11,7 +11,7 @@ Want to learn more about me?
 <br>
 
 - [Website](https://dhruvchokshi.co)
-- [Linkedin](https://linkedin/chokshidhruv/)
+- [Linkedin](https://linkedin/in/chokshidhruv/)
 - [Email](mailto:dhruvchokshi005@gmail.com)
 
 
