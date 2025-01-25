@@ -11,7 +11,7 @@ Want to learn more about me?
 <br>
 
 - [Website](https://dhruvchokshi.co)
-- [Linkedin](https://linkedin/in/chokshidhruv/)
+- [Linkedin](https://linkedin.com/in/chokshidhruv/)
 - [Email](mailto:dhruvchokshi005@gmail.com)
 
 
