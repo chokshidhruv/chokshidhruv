@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Dhruv Chokshi. I am a Software Engineering student studying at McMaster University (entering my 4th year).
+My name is Dhruv Chokshi. I am a Software Engineering student at McMaster University and currently interning at Wealthsimple :)
 
 Want to learn more about me?
 <br>
